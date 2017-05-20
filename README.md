@@ -1,6 +1,6 @@
-# Copypastes
-# RULES:
-# Preamble
+# COPYPASTES REPOSITORY
+# Rules:
+
 This repository is meant to gather internet copypastes in multiple languages by anyone who wants.
 I hope you'll find it useful and enjoyable.
 1. Feel free to add whatever paste you want, but please make sure ur paste wasn't already added but someone else.
